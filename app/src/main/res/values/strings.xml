@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Lab2Mobile</string>
+    <string name="app_name">Art Space</string>
+    
+    <!-- Кнопки -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <!-- Artworks -->
+    <string name="art_venice_title">Beautiful Morning in Venice</string>
+    <string name="art_venice_artist">Nikas Safronov</string>
+    <string name="art_venice_year">2014</string>
+    
+    <string name="art_italy_title">Impressions of a Trip to Italy</string>
+    <string name="art_italy_artist">Nikas Safronov</string>
+    <string name="art_italy_year">2014</string>
+    
+    <string name="art_gondola_title">Gondola Ride in Venice</string>
+    <string name="art_gondola_artist">Nikas Safronov</string>
+    <string name="art_gondola_year">2004</string>
 </resources>

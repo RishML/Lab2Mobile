@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Арт-пространство</string>
+
+    <!-- Кнопки -->
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+
+    <!-- Произведения искусства -->
+    <string name="art_venice_title">Прекрасное утро в Венеции</string>
+    <string name="art_venice_artist">Никас Сафронов</string>
+    <string name="art_venice_year">2014</string>
+    
+    <string name="art_italy_title">Впечатления о поездке по Италии</string>
+    <string name="art_italy_artist">Никас Сафронов</string>
+    <string name="art_italy_year">2014</string>
+    
+    <string name="art_gondola_title">Путешествие на гондоле по Венеции</string>
+    <string name="art_gondola_artist">Никас Сафронов</string>
+    <string name="art_gondola_year">2004</string>
+</resources>

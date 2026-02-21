@@ -1,0 +1,11 @@
+package com.Maksimova.lab2mobile
+
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+data class Artwork(
+    @DrawableRes val imageResId: Int,
+    @StringRes val titleResId: Int,
+    @StringRes val artistResId: Int,
+    @StringRes val yearResId: Int
+)
