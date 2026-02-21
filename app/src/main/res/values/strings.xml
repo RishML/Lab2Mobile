@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Art Space</string>
     
+    <!-- Кнопки -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
     <!-- Artworks -->
     <string name="art_venice_title">Beautiful Morning in Venice</string>
     <string name="art_venice_artist">Nikas Safronov</string>

@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Арт-пространство</string>
-    
+
+    <!-- Кнопки -->
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+
     <!-- Произведения искусства -->
     <string name="art_venice_title">Прекрасное утро в Венеции</string>
     <string name="art_venice_artist">Никас Сафронов</string>
